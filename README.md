@@ -49,8 +49,8 @@ workflows.
 ## GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sen-to&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sento's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sen-to&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Sento's most used languages">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sen-to&theme=github" alt="Sento's GitHub statistics">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sen-to&theme=github" alt="Sento's most used languages">
 </p>
 
 <p>
@@ -58,7 +58,7 @@ workflows.
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sen-to&theme=github-compact&hide_border=true&area=true" alt="Sento's GitHub activity graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sen-to&theme=github" alt="Sento's GitHub activity graph">
 </p>
 
 <div align="center">
