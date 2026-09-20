@@ -39,18 +39,16 @@
 
 ## GitHub activity
 
-<p>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sen-to&theme=github" alt="Sento's GitHub statistics">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sen-to&theme=github" alt="Sento's most used languages">
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=sen-to&theme=transparent&hide_border=true" alt="Sento's GitHub contribution streak">
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sen-to&theme=github" alt="Sento's GitHub activity graph">
-</p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sen-to&theme=github" alt="Sento's GitHub statistics">
+    </td>
+    <td valign="top">
+      <img width="640" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sen-to&theme=github" alt="Sento's GitHub activity graph">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
